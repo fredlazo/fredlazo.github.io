@@ -1,0 +1,18 @@
+---
+layout: post          #important: don't change this
+title: "Noob to Ninja"
+date: 2016-08-10 01:00:00
+author: Frederick
+categories:
+- blog                #important: leave this here
+- category1
+- category2
+
+img: post04.jpg       #place image (850x450) with this name in /assets/img/blog/
+thumb: thumb05.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
+I'm a coding noob --- soon to become a coding ninja.
+
+It's 3:00 am...I'll update this later.  Good night.
+<!--more-->
+Nothing here....yet.

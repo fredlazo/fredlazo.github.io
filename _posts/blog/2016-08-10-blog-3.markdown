@@ -1,0 +1,18 @@
+---
+layout: post          #important: don't change this
+title: "Blog 2"
+date: 2016-08-10 03:30:00
+author: Frederick
+categories:
+- blog                #important: leave this here
+- category1
+- category2
+
+img: typewriter.jpg       #place image (850x450) with this name in /assets/img/blog/
+thumb: typewriter_thumb.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
+
+I'm posting this blog entry to complete an assignment.
+
+I'll edit it later when I have something to say.
+<!--more-->
