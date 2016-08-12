@@ -11,8 +11,53 @@ categories:
 img: post04.jpg       #place image (850x450) with this name in /assets/img/blog/
 thumb: thumb05.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
-I'm a coding noob --- soon to become a coding ninja.
 
-It's 3:00 am...I'll update this later.  Good night.
+Noob.
+
+Yeah, that’s me.
+
 <!--more-->
-Nothing here....yet.
+
+In the world of software engineers and web developers, I’m still a newbie -- a beginner, a rookie, a student learning his first programming language, learning the jargon, learning the ropes, getting his feet wet, [insert more meaningless idioms here].
+
+You get the idea.
+
+But every single day I learn more and more about web development, and soon I’ll transform into something much different --- something awesome.
+
+Soon, I shall be a **LEVEL 2 INTERMEDIATE NOOB!**
+
+_(Wait, that’s not awesome. That’s lame.  Let’s try this again. )_
+
+Soo, I shall be a **NINJA!**  
+
+_(Yeah, that sounds slightly better.)_
+
+A **“Code Ninja”**, that is ---  a software engineer, a coding expert, proficient in numerous programming languages, skilled in the creation of web apps and software.  And I plan to get to that level with the help of Bloc, an online coding school I’ve enrolled in that’s teaching me everything I need to know to reach my goal of becoming a ‘Code Ninja’.  
+
+To prepare for my transformation, I thought I’d buy an actual ninja outfit:  all black, complete with face mask, sword, throwing stars….the whole deal. I like to wear it every time I code to remind me of my ultimate goal.  Since I code every day, the uniform kinda smells right now.  _(Sweat with a hint of stale urine --- aaaaah, the sweet smell of success!)_
+
+So what made me want to pursue a career as a software engineer/Code Ninja?
+
+As a child, I was really into martial arts and I wanted to be an actual ninja. But since the job market here in San Francisco for ninjas, mercenaries and silent assassins has been on a steady decline since the late 15th century, I thought I should pursue an alternative career in an industry that’s on the rise, an industry that I’ve found almost as intriguing as the ninja industry: **software engineering.**
+
+I’m attracted to software engineering because it involves a lot of problem solving, something I’ve always loved since I was a child.  _(Some may say I’ve always been into creating problems instead of solving them, but those people are haters.)_  
+
+Back to what I was saying...
+
+All my life I’ve always loved solving logic problems, word problems, crosswords, cryptograms, problems that need creative solutions, and stuff like that.  
+
+So when my older brother --- a software engineer -- told me about these “coding boot camps” that were popping up everywhere, I thought I’d look into them.  At the time, I didn’t have a real job and I was getting tired of my unstable income as a ticket scalper and eBay/Amazon seller.  Plus, I was engaged to be married and you know what they say, "No money, no honey".  Unless you're Winnie the Pooh.  He just takes the honey. No money. No wallet. He doesn't even own a pair of pants!  Just walks around half naked stealing honey.  That bear has no morals.  He's going straight to Bear Hell. Seriously.
+
+Back to what I was saying...
+
+My first choice was the App Academy boot camp, so I applied there but I didn’t get past the online coding interview problems. _(Man, those questions kicked my butt.)_  After getting their rejection email and cursing them repeatedly, I told myself, _“If you can’t join them, BEAT THEM!”._  That’s when I decided to enroll in  the Software Engineering Track at Bloc.  It’s a program that teaches you everything that App Academy would’ve taught me but with an additional 12 weeks of Computer Science material (data structures, algorithms), 12 weeks of contributing on an open source project, a flexible schedule, a personal mentor and a money back guarantee if I can’t find a job!  As old school rapper [Busy Bee](https://www.youtube.com/watch?v=0yUxE1sps2Y) would say, _“You can’t beat that with a stickball bat.”_
+
+That’s where I am right now, 3 months into the Software Engineering Track at Bloc, busting my butt every day trying to learn as much as I can, as quickly as I can and as thoroughly as I can.
+
+So as I sit here at Starbucks in my full ninja gear, working on my Bloc project, I look around and I notice I’m not alone. There's a Starbucks employee pointing me out to the police.  Also, there’s quite a few other folks coding on their MacBooks.  Actual real life Code Ninjas, perhaps? Except they don’t look like ninjas.  They look more like hipsters.
+
+Now that I think about it, I should probably ditch the stinky ninja outfit, head to H&M and get with the hipster look.
+
+Yeah, I’ll think I’ll do that.  
+
+Besides, drinking a Strawberry Creme Frappuccino through a straw kinda ruins the whole ninja mystique anyway.
