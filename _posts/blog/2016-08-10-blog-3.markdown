@@ -1,18 +1,19 @@
 ---
 layout: post          #important: don't change this
-title: "Blog 2"
-date: 2016-08-10 03:30:00
+title: "End of the line"
+date: 2016-08-12 03:30:00
 author: Frederick
 categories:
 - blog                #important: leave this here
 - category1
 - category2
 
-img: typewriter.jpg       #place image (850x450) with this name in /assets/img/blog/
-thumb: typewriter_thumb.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+img: rails.jpg       #place image (850x450) with this name in /assets/img/blog/
+thumb: rails.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 
-I'm posting this blog entry to complete an assignment.
+I've finally completed the Ruby on Rails portion of the Software Engineering Track.  
 
-I'll edit it later when I have something to say.
 <!--more-->
+
+I've done two Rails projects, got my portfolio set up and I've already been looking at potential jobs.  But even though I've completed the structured portion of the rails curriculum and completed the two required projects, I'm going to attempt the other Rails projects.  In fact, I'm going to try to do all of the Rails projects. I'm even going to redo my old projects (Bloccit, Blocipedia and Blocitoff) because I find that every time I redo a project, I always learn something new.
